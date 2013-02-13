@@ -1,0 +1,3 @@
+Having started as an electronic design engineer in the 1980s, doing assembly and C programming for embedded
+systems, I moved to application programming in 1999.  I continued in C, and added Perl to my repetoire which 
+is now my main programming language.  I use git at work an home, but I'm fairly new to github.
